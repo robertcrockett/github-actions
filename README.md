@@ -9,7 +9,7 @@
 
 # Hello GitHub Actions :smile:
 
-_Create a GitHub Action and use it in a workflow._
+_Create a GitHub Action and use it in a workflow. To test this workflow, create a Pull Request and review the comments. There should be a new comment welcoming you to the repository._
 
 </header>
 
